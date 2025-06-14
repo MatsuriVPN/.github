@@ -1,10 +1,10 @@
 <p align="center" dir="auto">
   <a href="https://github.com/MatsuriVPN" rel="nofollow">
-    <themed-picture data-catalyst-inline="true" data-catalyst="">
     <picture>
-      <source srcset="https://i.imgur.com/kGXjwJk.png">
-      <img alt="Tailwind CSS" src="" style="visibility:visible;max-width:100%;">
-    </picture></themed-picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/6fMbjMr.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/ymuTH4h.png">
+      <img alt="Логотип" src="https://i.imgur.com/light-logo.png" style="max-width:100%;">
+    </picture>
   </a>
 </p>
 
