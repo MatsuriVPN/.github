@@ -7,3 +7,7 @@
     </picture></themed-picture>
   </a>
 </p>
+
+<p align="center" dir="auto">
+  Создайте и управляйте своим бизнесом по продаже VPN с легкостью.
+</p>
