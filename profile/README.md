@@ -1,12 +1,13 @@
-## Hi there 👋
+<p align="center" dir="auto">
+  <a href="https://github.com/MatsuriVPN" rel="nofollow">
+    <themed-picture data-catalyst-inline="true" data-catalyst="">
+    <picture>
+      <source srcset="https://i.imgur.com/kGXjwJk.png">
+      <img alt="Tailwind CSS" src="" style="visibility:visible;max-width:100%;">
+    </picture></themed-picture>
+  </a>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center" dir="auto">
+  Создайте и управляйте своим бизнесом по продаже VPN с легкостью.
+</p>
